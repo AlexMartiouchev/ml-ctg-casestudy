@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+joblib
+ydata-profiling
+graphviz  # also needs the system Graphviz binary (the `dot` command) -- not pip-installable alone; see 07_binary_and_figo_rules.ipynb
